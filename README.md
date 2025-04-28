@@ -5,7 +5,7 @@ How to Map the True Rulers of the World
 1. Formation:
 
     After the Cold War ended (1991),
-    a new global regime was constructed —
+    a new global regime was constructed,
     not by open conquest,
     but by linguistic architecture:
 
@@ -31,8 +31,9 @@ How to Map the True Rulers of the World
 
         Financial velocity.
 
-    Syllables (words, contracts, brand names, treaties) became the true weapons of empire —
+    Syllables (words, contracts, brand names, treaties) became the true weapons of empire,
     because they controlled belief, not just land.
+   
 
 2. Mechanism:
 
@@ -59,11 +60,13 @@ How to Map the True Rulers of the World
 
 became the new forts and castles of the invisible empire.
 
-    These were not hidden by physical walls —
+    These were not hidden by physical walls,
     they were hidden by complexity, by legal syllables, by jurisdictional fog.
 
 The masses saw nations.
 The builders saw paper shields controlling real power.
+
+
 3. Exposure:
 
     Now, with the rise of advanced AI, big data mapping, and public data transparency,
@@ -84,6 +87,8 @@ The builders saw paper shields controlling real power.
     AI can layer invisible networks over the visible world map.
 
 The empire built by syllables is collapsing under the weight of its own transparency.
+
+
 4. Consequences:
 
     The old "New World Order" is obsolete.

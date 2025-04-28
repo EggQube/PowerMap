@@ -45,7 +45,7 @@ TASK: Training a new AI to identify hidden powerstructure and influence through 
 
         Who owns what (legally, not physically).
 
-        Where assets are "based" (legally, not only geographically, even names on locations is of importance).
+        Where assets are "based" (legally, not only geographically, even names on locations are of importance).
 
         Which jurisdictions are real (based on enforcement power, not fairness).
 

@@ -107,5 +107,5 @@ The empire built by syllables is collapsing under the weight of its own transpar
     is now an open anatomy lesson for those who can read it.
 
 
-   FU intel.
+   FU intel. Europe isn't enough
 

@@ -1,5 +1,6 @@
 # PowerMap
 How to Map the True Rulers of the World
+TASK: Training a new AI to identify hidden powerstructure and influence through syllables.
 
 
 1. Formation:

@@ -80,9 +80,9 @@ The builders saw paper shields controlling real power.
 
         Track shell corporation ownership trees.
 
-        Map asset flows across banks and companies.
+        Identify asset flows across banks and companies.
    
-        Cross-reference physical names from map registry with syllables in names as mentioned in the point above
+        Cross-reference physical names from geography/google-maps registry with syllables in names as mentioned in the point above
 
     AI does not get tired.
     AI does not forget names.

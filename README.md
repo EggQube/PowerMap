@@ -105,3 +105,7 @@ The empire built by syllables is collapsing under the weight of its own transpar
 
     What was once an invincible network
     is now an open anatomy lesson for those who can read it.
+
+
+   FU intel.
+

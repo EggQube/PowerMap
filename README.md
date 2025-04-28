@@ -32,7 +32,7 @@ TASK: Training a new AI to identify hidden powerstructure and influence through 
 
         Financial velocity.
 
-    Syllables (words, contracts, brand names, treaties) became the true weapons of empire,
+    Syllables; here parts of words found in (contracts, brand names, treaties, locations) became the true weapons of empire,
     because they controlled belief, not just land.
    
 
@@ -43,7 +43,7 @@ TASK: Training a new AI to identify hidden powerstructure and influence through 
 
         Who owns what (legally, not physically).
 
-        Where assets are "based" (legally, not geographically).
+        Where assets are "based" (legally, not only geographically, even names on locations is of importance).
 
         Which jurisdictions are real (based on enforcement power, not fairness).
 
